@@ -3,10 +3,10 @@
 
 ### basic features
 
-- [ ] add crypto/tokens balances
-- [ ] list all assets with market prices
-- [ ] show portfolio value
-- [ ] show portfolio value taking into account liquid levels
+* [ ] add crypto/tokens balances
+* [ ] list all assets with market prices
+* [ ] show portfolio value
+* [ ] show portfolio value taking into account liquid levels
 
 ### speculation features
 
